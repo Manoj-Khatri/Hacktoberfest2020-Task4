@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>// spelling correction
 
 
 int main()
